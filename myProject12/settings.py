@@ -30,6 +30,7 @@ DEBUG = True  # Set False in production
 ALLOWED_HOSTS = ["my-portfolio-website-using-django-2.onrender.com", "localhost", "127.0.0.1"]
 
 
+
 # Application definition
 
 INSTALLED_APPS = [
